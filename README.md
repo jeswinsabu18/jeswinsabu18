@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-
-**jeswinsabu18/jeswinsabu18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Im jeswin sabu. welcome to my github page</h2>
 
 Here are some ideas to get you started:
 
