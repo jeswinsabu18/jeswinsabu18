@@ -9,7 +9,6 @@ I'm a Computer Science Engineering graduate passionate about building clean, res
 - 🛠️ Exploring reusable components, Angular Signals, RxJS, and API integration
 - 🚀 Projects: Employee Management System and GestureMate
 - 📫 Reach me at **[jeswinsabu04@gmail.com](mailto:jeswinsabu04@gmail.com)**
-- 🔗 GitHub: [@jeswinsabu18](https://github.com/jeswinsabu18)
 
 ---
 
